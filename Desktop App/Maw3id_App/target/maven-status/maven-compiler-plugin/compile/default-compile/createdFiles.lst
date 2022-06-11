@@ -1,0 +1,4 @@
+com\mycompany\maw3id_app\ShowDbChanges.class
+com\mycompany\maw3id_app\FirebaseService.class
+com\mycompany\maw3id_app\FirestoreClient.class
+com\mycompany\maw3id_app\FirestoreClient$FirestoreClientService.class

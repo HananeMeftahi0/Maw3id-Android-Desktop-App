@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Hnn Mft/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable/ic_email.xml" value="0.2569230769230769" />
+        <entry key="..\:/Users/Hnn Mft/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable/ic_settings.xml" value="0.2569230769230769" />
+        <entry key="..\:/Users/Hnn Mft/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable/item_state_pressed.xml" value="0.2569230769230769" />
+        <entry key="..\:/Users/Hnn Mft/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable/item_state_selected.xml" value="0.2569230769230769" />
+        <entry key="..\:/Users/Hnn Mft/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable/list_item_normal.xml" value="0.2569230769230769" />
+        <entry key="..\:/Users/Hnn Mft/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable/list_selector.xml" value="0.2569230769230769" />
+        <entry key="..\:/Users/Hnn Mft/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable/reset_alert.xml" value="0.24583333333333332" />
+        <entry key="..\:/Users/Hnn Mft/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_dashboard.xml" value="0.23596014492753623" />
+        <entry key="..\:/Users/Hnn Mft/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/Users/Hnn Mft/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_main.xml" value="0.1403985507246377" />
+        <entry key="..\:/Users/Hnn Mft/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_main2.xml" value="0.1" />
+        <entry key="..\:/Users/Hnn Mft/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_reset_password.xml" value="0.22" />
+        <entry key="..\:/Users/Hnn Mft/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_sign_up.xml" value="0.24479166666666666" />
+        <entry key="..\:/Users/Hnn Mft/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/calendar_list_item.xml" value="0.1381340579710145" />
+        <entry key="..\:/Users/Hnn Mft/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/fragment_about.xml" value="0.11904761904761904" />
+        <entry key="..\:/Users/Hnn Mft/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/fragment_add.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Hnn Mft/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/fragment_calendar.xml" value="0.11904761904761904" />
+        <entry key="..\:/Users/Hnn Mft/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/fragment_chat.xml" value="0.11904761904761904" />
+        <entry key="..\:/Users/Hnn Mft/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/fragment_logout.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/Hnn Mft/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/fragment_message.xml" value="0.11904761904761904" />
+        <entry key="..\:/Users/Hnn Mft/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/fragment_next.xml" value="0.1852355072463768" />
+        <entry key="..\:/Users/Hnn Mft/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/fragment_settings.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/Hnn Mft/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/header_nav.xml" value="0.11220871327254306" />
+        <entry key="..\:/Users/Hnn Mft/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/nav_header.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/Hnn Mft/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/reset_alert.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/Hnn Mft/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/reset_pop.xml" value="0.22" />
+        <entry key="..\:/Users/Hnn Mft/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/settings_list_item.xml" value="0.11904761904761904" />
+        <entry key="..\:/Users/Hnn Mft/AndroidStudioProjects/MyApplication2/app/src/main/res/menu/drawer_menu.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/Hnn Mft/AndroidStudioProjects/MyApplication2/app/src/main/res/menu/option_menu.xml" value="0.24479166666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.1" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MAW3ID</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string-array name="settings">
+
+        <item>إعادة تعيين كلمة المرور </item>
+
+        <item>حذف الحساب</item>
+
+
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

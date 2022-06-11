@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white">
+    <TextView
+        android:id="@+id/text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+       android:layout_marginTop="100dp"
+        android:textSize="50sp"
+        android:textStyle="bold"
+        android:text="المريض الحالي:"
+
+
+        />
+<TextView
+    android:id="@+id/textA"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_centerHorizontal="true"
+
+    android:textSize="15sp"
+    android:textStyle="bold"
+    android:text="A"
+    android:layout_below="@+id/text"
+    android:visibility="gone"
+
+    />
+    <TextView
+        android:id="@+id/textB"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+
+        android:textSize="15sp"
+        android:textStyle="bold"
+        android:text="B"
+        android:layout_below="@+id/textA"
+        android:layout_marginTop="10dp"
+        android:visibility="gone"
+
+        />
+    <TextView
+        android:id="@+id/textC"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_centerHorizontal="true"
+
+        android:textSize="15sp"
+        android:textStyle="bold"
+        android:text="C"
+        android:layout_below="@+id/textB"
+        android:visibility="gone"
+
+        />
+    <TextView
+        android:id="@+id/textD"
+        android:layout_marginTop="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+
+        android:textSize="15sp"
+        android:textStyle="bold"
+        android:text="D"
+        android:layout_below="@+id/textC"
+        android:visibility="gone"
+
+
+
+        />
+
+</RelativeLayout>
